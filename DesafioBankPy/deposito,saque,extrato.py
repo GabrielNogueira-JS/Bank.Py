@@ -20,7 +20,7 @@ if tipo_conta == "s":
     limite = 1000
 else:
     conta_gold = False
-    LIMITE_SAQUES = 3
+    LIMITE_SAQUES = 10
     limite = 500
 
 menu = """
